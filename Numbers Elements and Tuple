@@ -1,0 +1,6 @@
+print(f"Numbers Elements and Tuple \n ")
+
+numbers = [1,2,3,6,7,9]
+numbertuple = tuple(numbers)
+print(f"First Elements is: {numbertuple[0]}")
+print(f"Last Elements is: {numbertuple[5]}")
